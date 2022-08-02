@@ -1,3 +1,1 @@
-#### IN ACTION
-
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+#### Live Demo: https://legendary-sherbet-49958d.netlify.app/
